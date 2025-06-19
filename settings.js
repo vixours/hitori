@@ -32,7 +32,7 @@ global.my = {
 	yt: 'https://youtube.com/@zerostyleproject8643?si=HxulwRuMioRLQzWl',
 	gh: 'https://github.com/vixours',
 	gc: 'https://chat.whatsapp.com/IZZPgnjPUUp7RVCs4UtrOB',
-	ch: '120363250409960161@newsletter',
+	ch: 'https://whatsapp.com/channel/0029VbBdeag0bIdl91yPku1i',
 }
 
 global.limit = {
