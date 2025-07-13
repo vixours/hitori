@@ -26,10 +26,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com/@zerostyleproject8643?si=HxulwRuMioRLQzWl',
+	gh: 'https://github.com/vixours',
+	gc: 'https://chat.whatsapp.com/IZZPgnjPUUp7RVCs4UtrOB',
+	ch: 'https://whatsapp.com/channel/0029VbBdeag0bIdl91yPku1i',
 }
 
 global.limit = {
